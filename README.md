@@ -9,4 +9,4 @@ Credit: "Global Map of The Kingdom of Saudi Arabia © ISCGM/General Commission f
 
 Contact: General Commission for Survey (GCS).
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/saudi.png)
+E-mail: ![email](email.png)
